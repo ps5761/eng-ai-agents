@@ -1,0 +1,19 @@
+# Video and frames
+data/
+*.mp4
+
+# Model weights
+models/
+*.pt
+
+# Generated outputs
+outputs/
+
+# Ultralytics
+runs/
+datasets/
+yolov8*.pt
+
+# Python
+__pycache__/
+*.pyc
