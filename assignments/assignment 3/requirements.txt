@@ -1,0 +1,8 @@
+ultralytics
+filterpy
+opencv-python-headless
+numpy
+yt-dlp
+datasets
+roboflow
+huggingface_hub
